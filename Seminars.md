@@ -14,7 +14,7 @@
                 </li>
             {% else %}
                 <li>
-                    <a href="{{ absolute_url }}{{ post.url }}">{{ post.date | date: "%-d %B %Y"}}, {{ post.series }}: {{ post.title }}</a>
+                    <a href="{{ "" | absolute_url }}{{ post.url }}">{{ post.date | date: "%-d %B %Y"}}, {{ post.series }}: {{ post.title }}</a>
                 </li>
             {% endif %}
         {% endif %}
