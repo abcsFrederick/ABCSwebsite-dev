@@ -2,7 +2,7 @@
 layout: post
 title: Evolutionary landscape of CLL treated with targeted therapy
 author: Landau et al
-categories: [vignettes]
+categories: [vignettes, simulation and modeling]
 tags: [CLL, targeted therapy]
 ---
 
