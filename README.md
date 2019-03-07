@@ -8,7 +8,7 @@ ABCS is a centrally funded resource to NCI investigators for expert consultation
 
 ## Recent Vignettes
 
-These vignettes contain some examples of recent ABCS work. See our [full list of vignettes](Vignettes/all), or select a group from the menu.
+These vignettes contain some examples of recent ABCS work. See our [full list of vignettes]({{ site.baseurl }}/Vignettes/all), or select a group from the menu.
 
 <ul>
     {% for post in site.posts %}
