@@ -2,8 +2,8 @@
 layout: post
 title: Evolutionary landscape of CLL treated with targeted therapy
 author: Landau et al
-categories: [vignettes, simulation and modeling]
-tags: [CLL, targeted therapy]
+categories: [vignettes]
+tags: [CLL, targeted therapy, simulation and modeling]
 ---
 
 ![Putative driver gene mutations and copy number alterations at treatment initiation]({{ "/" | absolute_url }}images/assets/CLL-Nature.jpg)
