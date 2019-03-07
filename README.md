@@ -14,7 +14,7 @@ These vignettes contain some examples of recent ABCS work. See our [full list of
     {% for post in site.posts %}
     {% if post.categories contains "vignettes"%}
         <li>
-            <a href="{{ absolute_url }}{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endif %}
     {% endfor %}

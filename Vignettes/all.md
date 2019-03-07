@@ -7,7 +7,7 @@
     {% for post in site.posts %}
     {% if post.categories contains "vignettes" and post.tags contains "simulation and modeling" %}
         <li>
-            <a href="{{ absolute_url }}{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endif %}
     {% endfor %}
