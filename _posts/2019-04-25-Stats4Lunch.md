@@ -11,4 +11,8 @@ project: statistics4lunch
 videoId: 190425
 ---
 
-More details will follow soon.
+Dr George Nelson will be presenting an Introduction to Survival Analysis at our next Statistics for Lunch seminar.
+
+* How do you analyze time-to-event data?
+* What is censoring and why is it important?
+* What is the difference between a Kaplan Meier estimator and a Cox Proportional Hazards model?
