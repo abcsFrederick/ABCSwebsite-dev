@@ -4,7 +4,7 @@
 
 # Bioinformatics User Forum
 
-The Bioinformatics User Forum is a place to build the bioinformatics community within the NCI and Frederick National Laboratory as well as among our collaborators at NIH, Ft Detrick and beyond. Anyone interested in the bioinformatcs challenges in these communities is welcome to join us (search for "Bioinformatics-User-Forum" at [list.nih.gov](https://list.nih.gov) to sign up for our list serve).
+The Bioinformatics User Forum is a place to build the bioinformatics community within the NCI and Frederick National Laboratory as well as among our collaborators at NIH, Ft Detrick and beyond. Anyone interested in the bioinformatics challenges in these communities is welcome to join us (search for "Bioinformatics-User-Forum" at [list.nih.gov](https://list.nih.gov) to sign up for our list serve).
 
 Check out our [Statistics for Lunch](Stats4Lunch) and [Programmer's Corner](ProgrammersCorner) series for additional upcoming events and recordings.
 
