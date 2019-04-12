@@ -1,4 +1,4 @@
-# Statistics for Lunch
+![](assets/images/StatisticsForLunch_trans.png)
 
 Statistics for Lunch is a series sponsored by the [Bioinformatics User Forum](https://abcsfrederick.info/BUF) that focuses on exporing topics in statistics at an accessible, intuitive level. We usually provide a high level, easy to understand seminar followed by a practical, hands-on session to practice what is covered in the seminar.
 

@@ -1,4 +1,4 @@
-# Programmer's Corner
+![](assets/images/Programmer's Corner.png)
 
 The Programmer's Corner, sponsored by the [Bioinformatics User Forum](https://abcsfrederick.info/BUF), is a quarterly meeting of programmers to discuss topics of interest to the group. We usually have 2 or 3 short talks centered around a common topic, followed by discussion.
 
