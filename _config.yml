@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: ABCS
 future: true
-url: https://dev.abcsfrederick.info
+url: https://dev.abcsFrederick.info
+baseurl: ""
+github: [metadata]
